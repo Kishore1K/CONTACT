@@ -13,7 +13,11 @@ IF U WANT TO RUN THIS
     $ cd /CONTACT 
    ```
  3. INSTALL ALL THE NODE FILES  
- ``` shell $ npm install``` 
+ ``` shell 
+ $ npm install
+ ``` 
  
  4. RUN THE FILES 
- ```shell $ npm start```
+ ```shell 
+ $ npm start
+ ```
