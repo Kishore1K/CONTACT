@@ -1,16 +1,19 @@
 # CONTACT FORM
 
 IF U WANT TO RUN THIS 
+<br/>
  *STEPS*
- *  CLONE 
- *   ```shell
+ 1. CLONE 
+  ```shell
     $ git clone https://github.com/Kishore1K/CONTACT.git
-    
-    ```
- * ```shell
+ 
+ ```
+ 2. CHANGE TO THE DIR
+  ```shell
     $ cd /CONTACT 
    ```
-
- * INSTALL ALL THE NODE FILES  `npm install` 
+ 3. INSTALL ALL THE NODE FILES  
+ ``` shell $ npm install``` 
  
- * RUN THE FILES `npm start`
+ 4. RUN THE FILES 
+ ```shell $ npm start```
