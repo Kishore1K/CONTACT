@@ -1,0 +1,26 @@
+{
+  "name": "contact",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://Kishore1K.github.io/contact",
+  "main": "server.js",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "dev": "nodemon server.js",
+    "start": "node server.js",
+    "build":"node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^14.3.2",
+    "express": "^4.17.1",
+    "gh-pages": "^3.2.3",
+    "nodemailer": "^6.6.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
